@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80" role="img" aria-label="VIS logo - light">
+  <rect width="100%" height="100%" fill="#ffffff"></rect>
+  <!-- filled triangle -->
+  <g transform="translate(10,12)">
+    <path d="M24 0 L48 41.5692 L0 41.5692 Z" fill="#111827"></path>
+  </g>
+
+  <!-- VIS text -->
+  <text x="78" y="52" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="44" fill="#111827">VIS</text>
+</svg>

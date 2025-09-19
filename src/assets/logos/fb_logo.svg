@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80" role="img" aria-label="VIS logo - dark">
+  <!-- triangle -->
+  <g transform="translate(10,12)">
+    <path d="M24 0 L48 41.5692 L0 41.5692 Z" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"></path>
+  </g>
+
+  <!-- VIS text -->
+  <text x="78" y="52" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="600" font-size="44" fill="#000">VIS</text>
+</svg>

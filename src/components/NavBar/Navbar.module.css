@@ -1,0 +1,21 @@
+.navbar_container {
+    display: inline-block;
+    flex: 0 0 15%;
+    border-radius: 10px;
+    background-color: #a8e4a0;
+    margin: 10px;
+}
+
+.navbar_logo_image{
+
+}
+
+.navbar_menu{
+    background-color: grey;
+    display: inline-block;
+}
+
+.navbar_user_profile{
+    background-color: grey;
+    display: inline-block;
+}

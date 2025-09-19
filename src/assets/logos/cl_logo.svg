@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 96" width="360" height="96" role="img" aria-label="VIS logo - accent">
+  <!-- accent triangle -->
+  <g transform="translate(16,12)">
+    <path d="M28 0 L56 48 L0 48 Z" fill="#4F46E5"></path>
+  </g>
+
+  <!-- VIS text -->
+  <text x="100" y="62" font-family="Inter, Roboto, Arial, sans-serif" font-weight="700" font-size="52" fill="#0F172A">VIS</text>
+
+  <!-- optional subtle divider line -->
+  <line x1="16" y1="84" x2="344" y2="84" stroke="#E6E9EE" stroke-width="0.5"></line>
+</svg>

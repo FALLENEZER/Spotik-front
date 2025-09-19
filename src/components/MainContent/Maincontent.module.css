@@ -1,0 +1,8 @@
+.maincontent_container{
+    background-color: rgb(167, 111, 167);
+    border-radius: 10px;
+    flex:1;
+    margin: 5px;
+    position: relative;
+    overflow: hidden;
+}
